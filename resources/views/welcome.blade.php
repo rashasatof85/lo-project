@@ -96,7 +96,7 @@
                                 <li class="nav-item active"><a class="page-scroll" href="#home">home</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="./Services">Services</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="./OurCustomer">Our Customer</a></li>
-                                <li class="nav-item"><a class="page-scroll" href="#pricing">Pricing</a></li>
+                                <!--<li class="nav-item"><a class="page-scroll" href="#pricing">Pricing</a></li>-->
                                 <li class="nav-item"><a class="page-scroll" href="#about">About</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="#contact">Contact</a></li>
                             </ul>
@@ -198,106 +198,7 @@
     <!--====== SLIDER PART ENDS ======-->
     
    
-    <!--====== PORTFOLIO PART START ======-->
-
-    <section id="portfolio" class="portfolio-area portfolio-four pb-100">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-12">
-                    <div class="section-title text-center pb-10">
-                        <h3 class="title">You are using free lite version</h3>
-                        <p class="text">Please, purchase full version to get all pages and features</p>
-                        <div class="light-rounded-buttons mt-30">
-                        <a href="https://rebrand.ly/smash-ud" rel="nofollow" class="main-btn light-rounded-two">Purchase Now</a>
-                        </div>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== PORTFOLIO PART ENDS ======-->
-    
-    <!--====== PRINICNG START ======-->
-
-    <section id="pricing" class="pricing-area ">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-10">
-                    <div class="section-title text-center pb-25">
-                        <h3 class="title">Pricing Plans</h3>
-                        <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-7 col-sm-9">
-                    <div class="pricing-style mt-30">
-                        <div class="pricing-icon text-center">
-                            <img src="assets/images/basic.svg" alt="">
-                        </div>
-                        <div class="pricing-header text-center">
-                            <h5 class="sub-title">Basic</h5>
-                            <p class="month"><span class="price">$ 199</span>/month</p>
-                        </div>
-                        <div class="pricing-list">
-                            <ul>
-                                <li><i class="lni lni-check-mark-circle"></i> Carefully crafted components</li>
-                                <li><i class="lni lni-check-mark-circle"></i> Amazing page examples</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-btn rounded-buttons text-center">
-                            <a class="main-btn rounded-one" href="#">GET STARTED</a>
-                        </div>    
-                    </div> <!-- pricing style one -->
-                </div>
-                
-                <div class="col-lg-4 col-md-7 col-sm-9">
-                    <div class="pricing-style mt-30">
-                        <div class="pricing-icon text-center">
-                            <img src="assets/images/pro.svg" alt="">
-                        </div>
-                        <div class="pricing-header text-center">
-                            <h5 class="sub-title">Pro</h5>
-                            <p class="month"><span class="price">$ 399</span>/month</p>
-                        </div>
-                        <div class="pricing-list">
-                            <ul>
-                                <li><i class="lni lni-check-mark-circle"></i> Carefully crafted components</li>
-                                <li><i class="lni lni-check-mark-circle"></i> Amazing page examples</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-btn rounded-buttons text-center">
-                            <a class="main-btn rounded-one" href="#">GET STARTED</a>
-                        </div>
-                    </div> <!-- pricing style one -->
-                </div>
-                
-                <div class="col-lg-4 col-md-7 col-sm-9">
-                    <div class="pricing-style mt-30">
-                        <div class="pricing-icon text-center">
-                            <img src="assets/images/enterprise.svg" alt="">
-                        </div>
-                        <div class="pricing-header text-center">
-                            <h5 class="sub-title">Enterprise</h5>
-                            <p class="month"><span class="price">$ 699</span>/month</p>
-                        </div>
-                        <div class="pricing-list">
-                            <ul>
-                                <li><i class="lni lni-check-mark-circle"></i> Carefully crafted components</li>
-                                <li><i class="lni lni-check-mark-circle"></i> Amazing page examples</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-btn rounded-buttons text-center">
-                            <a class="main-btn rounded-one" href="#">GET STARTED</a>
-                        </div>
-                    </div> <!-- pricing style one -->
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== PRINICNG ENDS ======-->
+   
     
     <!--====== ABOUT PART START ======-->
 
